@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+/*
+@font-face {
+    font-family: nunito;
+    src: url(assets/fonts/Nunito) format("opentype");
+}
+
+@font-face {
+    font-family: open-sans;
+    src: url(assets/fonts/Open_Sans) format("opentype");
+}
+*/
+@font-face {
+    font-family: apollon;
+    src: url(assets/fonts/Apollon_Sepideh-Regular.woff2) format("opentype");
+}
+@font-face {
+    font-family: massa;
+    src: url(assets/fonts/Massa-Regular.ttf) format("opentype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

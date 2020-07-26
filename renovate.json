@@ -1,0 +1,16 @@
+{
+  "labels": [
+    "renovate"
+  ],
+  "rangeStrategy": "pin",
+  "packageRules": [
+    {
+      "updateTypes": [
+        "minor",
+        "patch",
+        "pin"
+      ],
+      "automerge": true
+    }
+  ]
+}

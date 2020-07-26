@@ -1,0 +1,11 @@
+# Ignore everything:
+/*
+
+# Except src,__test__,__data__
+!/src
+
+# Excep some files
+!README.md
+!renovate.json
+!.prettierrc.json
+!.gitlab-ci.yml
